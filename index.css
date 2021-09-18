@@ -1,0 +1,70 @@
+.heading{
+    color:crimson;
+    font-weight: bolder;
+}
+
+.heading2{
+    color:crimson;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.ol_list{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: large;
+}
+
+.list_italic{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.add_line{
+    text-decoration: line-through solid;
+}
+
+.add_colour{
+    background-color: yellow;
+}
+
+.heading3{
+    color:red;
+    font-style: italic;
+}
+
+.ul_list{
+    color: brown;
+    letter-spacing: 6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+
+.para1{
+    color: brown;
+    font-size: large;
+
+}
+
+.para2{
+    color:darkgoldenrod;
+    font-size: large;
+
+}
+
+
+.prepbytes_link{
+    background-color: darkorange;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.fas fa-home{
+    background-color: none;
+}
+
+.border_on{
+    text-decoration: underline;
+}
